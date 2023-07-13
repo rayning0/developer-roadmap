@@ -1,0 +1,1 @@
+import{M}from"./MarkFavorite.5547676b.js";import"./hooks.module.7cc4e70a.js";import"./preact.module.7b19fc78.js";import"./http.6d2b195c.js";import"./jwt.f0e0aa9c.js";import"./popup.a359f713.js";import"./jsxRuntime.module.afbf92fe.js";export{M as MarkFavorite};
