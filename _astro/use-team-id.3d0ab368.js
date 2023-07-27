@@ -1,0 +1,1 @@
+import{h as n,p as o}from"./hooks.module.7cc4e70a.js";function s(){const[e,a]=n(null);return o(()=>{const t=new URLSearchParams(window.location.search).get("t")||null;a(t)},[]),{teamId:e}}export{s as u};

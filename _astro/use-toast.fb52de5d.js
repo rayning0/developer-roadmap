@@ -1,0 +1,1 @@
+import{$ as n}from"./toast.1fe7142d.js";function c(){function e(t){n.set({type:"success",message:t})}function s(t){n.set({type:"error",message:t})}function o(t){n.set({type:"info",message:t})}function i(t){n.set({type:"warning",message:t})}function r(t){n.set({type:"loading",message:t})}return{success:e,error:s,info:o,warning:i,loading:r,$toastMessage:n}}export{c as u};
